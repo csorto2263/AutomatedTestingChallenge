@@ -1,0 +1,15 @@
+C:\Users\Thelma\Documents\Visual Studio 2019\AutomatedTestingChallenge\ParkingCostCalculator\obj\Debug\netcoreapp3.1\ParkingCostCalculator.AssemblyInfoInputs.cache
+C:\Users\Thelma\Documents\Visual Studio 2019\AutomatedTestingChallenge\ParkingCostCalculator\obj\Debug\netcoreapp3.1\ParkingCostCalculator.AssemblyInfo.cs
+C:\Users\Thelma\Documents\Visual Studio 2019\AutomatedTestingChallenge\ParkingCostCalculator\bin\Debug\netcoreapp3.1\ParkingCostCalculator.exe
+C:\Users\Thelma\Documents\Visual Studio 2019\AutomatedTestingChallenge\ParkingCostCalculator\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Thelma\Documents\Visual Studio 2019\AutomatedTestingChallenge\ParkingCostCalculator\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Thelma\Documents\Visual Studio 2019\AutomatedTestingChallenge\ParkingCostCalculator\obj\Debug\netcoreapp3.1\ParkingCostCalculator.csprojAssemblyReference.cache
+C:\Users\Thelma\Documents\Visual Studio 2019\AutomatedTestingChallenge\ParkingCostCalculator\obj\Debug\netcoreapp3.1\ParkingCostCalculator.csproj.CopyComplete
+C:\Users\Thelma\Documents\Visual Studio 2019\AutomatedTestingChallenge\ParkingCostCalculator\bin\Debug\netcoreapp3.1\ParkingCostCalculator.deps.json
+C:\Users\Thelma\Documents\Visual Studio 2019\AutomatedTestingChallenge\ParkingCostCalculator\bin\Debug\netcoreapp3.1\ParkingCostCalculator.runtimeconfig.json
+C:\Users\Thelma\Documents\Visual Studio 2019\AutomatedTestingChallenge\ParkingCostCalculator\bin\Debug\netcoreapp3.1\ParkingCostCalculator.runtimeconfig.dev.json
+C:\Users\Thelma\Documents\Visual Studio 2019\AutomatedTestingChallenge\ParkingCostCalculator\bin\Debug\netcoreapp3.1\ParkingCostCalculator.dll
+C:\Users\Thelma\Documents\Visual Studio 2019\AutomatedTestingChallenge\ParkingCostCalculator\bin\Debug\netcoreapp3.1\ParkingCostCalculator.pdb
+C:\Users\Thelma\Documents\Visual Studio 2019\AutomatedTestingChallenge\ParkingCostCalculator\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\Thelma\Documents\Visual Studio 2019\AutomatedTestingChallenge\ParkingCostCalculator\obj\Debug\netcoreapp3.1\ParkingCostCalculator.dll
+C:\Users\Thelma\Documents\Visual Studio 2019\AutomatedTestingChallenge\ParkingCostCalculator\obj\Debug\netcoreapp3.1\ParkingCostCalculator.pdb
