@@ -35,6 +35,8 @@ namespace ParkingCostCalculatorTest
             PCCC.SetEntry("6/1/2020", "12:00", false);
             PCCC.SetLeaving("6/2/2020", "2:00", true);
             PCCC.Calculate();
+
+            Assert.Equal(_driver.FindElement(By.CssSelector("b")).Text, "$ 24.00");
         }
 
         [Theory]
@@ -47,6 +49,8 @@ namespace ParkingCostCalculatorTest
             PCCC.SetEntry(entryDate, entryTime, entryAM);
             PCCC.SetLeaving(leavingDate, leavingTime, LeavingAM);
             PCCC.Calculate();
+
+            Assert.Equal(_driver.FindElement(By.CssSelector("b")).Text, "NAN");
         }
     }
 }

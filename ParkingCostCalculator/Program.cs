@@ -13,7 +13,7 @@ namespace ParkingCostCalculator
             Console.WriteLine("Hello Acklen!");
         }
 
-    #region Elements ID
+        #region Elements ID
         private readonly string _ParkingLot = "ParkingLot";
         private readonly string _EntryDate = "StartingDate";
         private readonly string _EntryTime = "StartingTime";
@@ -95,6 +95,12 @@ namespace ParkingCostCalculator
         {
             var calculateElement = _driver.FindElement(By.Name(_Calculate));
             calculateElement.Click();
+        }
+
+        public void Assert(string expected)
+        {
+            //string getResult = _driver.FindElement(By.XPath("//span/b")).Text;
+
         }
 
     }
